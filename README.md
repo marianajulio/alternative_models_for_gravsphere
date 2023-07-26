@@ -5,7 +5,7 @@ To run the alternative dark matter models discussed, you first need to download 
 ⚠️  If you use GravSphere, don't forget to cite the papers mentioned in its repository.
 
 If you use any of the models described here, please additionally cite the following papers:
-+ Code implementation -- Constraining SFDM with Antlia B (link)
++ Code implementation -- https://ui.adsabs.harvard.edu/abs/2023arXiv230713035J/abstract
 + Cold Dark Matter (CDM) -- https://ui.adsabs.harvard.edu/abs/1996ApJ...462..563N/abstract
 + Scalar Field Dark Matter (SFDM) -- https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2418D/abstract
 
@@ -64,5 +64,7 @@ You can now run ```python gravsphere_nfw.py``` or ```python gravsphere_sfdm.py``
 #### Final remarks
 If you find any bugs or have any questions, please [contact me](mailto:mpouseirojulio@aip.de).
 
+
 Mariana P. Júlio
-12/05/2023
+
+26/07/2023
