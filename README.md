@@ -5,7 +5,7 @@ To run the alternative dark matter models discussed, you first need to download 
 ⚠️  If you use GravSphere, don't forget to cite the papers mentioned in its repository.
 
 If you use any of the models described here, please additionally cite the following papers:
-+ Code implementation -- https://ui.adsabs.harvard.edu/abs/2023arXiv230713035J/abstract
++ Code implementation -- https://ui.adsabs.harvard.edu/abs/2023A%26A...678A..38J/abstract
 + Cold Dark Matter (CDM) -- https://ui.adsabs.harvard.edu/abs/1996ApJ...462..563N/abstract
 + Scalar Field Dark Matter (SFDM) -- https://ui.adsabs.harvard.edu/abs/2021MNRAS.506.2418D/abstract
 
@@ -67,4 +67,4 @@ If you find any bugs or have any questions, please [contact me](mailto:mpouseiro
 
 Mariana P. Júlio
 
-26/07/2023
+11/12/2023
